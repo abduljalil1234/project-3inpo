@@ -1,0 +1,231 @@
+
+@media all and (max-width:991px){
+	.header-top-right {
+		width: 50%;
+	}
+	.header-top-left {
+		width: 50%;
+	}
+	.header-menu ul li {
+		display: inherit;
+		text-align: center;
+	}
+	.header-top-left-text {
+		margin-left: 20px;
+	}
+	.header-bottom {
+		margin-left: 5%;
+	}
+	.header-bottom p {
+		width: 66%;
+	}
+	.Responsive_Ready_left img {
+		width: 69%;
+	}
+	.Valeria_Boltneva_left {
+		box-sizing: border-box;
+		padding-left: 1%;
+	}
+	.Built_with_High_full_left h1 {
+		font-size: 25px;
+	}
+	.pricing_plan_full_bottom {
+		width: 90%;
+	}
+	.footer_top_single:first-child{
+		padding-left: 1%;
+		box-sizing: border-box;
+	}
+}
+@media all and (max-width:820px){
+	.Responsive_Ready_right p {
+		margin: 10px 0px;
+	}
+	.Built_with_High_full_left {
+		width: 100%;
+		padding-left: 2%;
+		padding-top: 0px;
+		margin-bottom: 16px;
+	}
+	.Built_with_High {
+		padding: 17px 0px;
+	}
+	.Built_with_High_full_right {
+		width: 100%;
+	}
+	.download_now_full_left h1 {
+		font-size: 25px;
+	}
+}
+@media all and (max-width:767px){
+	.header-bottom p {
+		width: 75%;
+	}
+	.header-bottom {
+		margin-top: 150px;
+		margin-bottom: 140px;
+	}
+	.Responsive_Ready_left {
+		width: 97%;
+		text-align: center;
+	}
+	.Responsive_Ready_left img {
+		width: 47%;
+	}
+	.Responsive_Ready_right {
+		width: 98%;
+		margin-left: 2%;
+		margin-bottom: 12px;
+	}
+	.Responsive_Ready_right p {
+		width: 98%;
+	}
+	.pricing_plan_full_bottom {
+		width: 99%;
+		margin-bottom:2px !important;
+	}
+	.Included_with_Plans_full_bottom_single {
+		width: 47%;
+		margin-bottom: 12px;
+		margin-left: 3%;
+	}
+	.download_now_full_left {
+		width: 98%;
+		margin-left: 2%;
+		margin-bottom: 20px;
+	}
+	.download_now_full_right {
+		width: 97%;
+		margin-left: 3%;
+		text-align: inherit;
+	}
+}
+@media all and (max-width:676px){
+	.header-top-left {
+		width: 100%;
+		text-align: center;
+	}
+	.header-top-left-text h1 {
+		float: none;
+		display: inline;
+	}
+	.header-top-left-text p{
+		display: inline;
+	}
+	.header-top-right {
+		width: 100%;
+		margin-top: 51px;
+	}
+	.header-bottom {
+		margin-top: 94px;
+		margin-bottom: 74px;
+	}
+	.our_features {
+		margin-top: 25px;
+		margin-bottom: 35px;
+	}
+	.our_features_bottom-single {
+		width: 100%;
+	}
+	.our_features_bottom-single p {
+		margin-bottom: 10px;
+	}
+	.Best_our_features {
+		margin-bottom: 0px;
+	}
+	.Creative_Idea_single {
+		width: 96%;
+	}
+	.Valeria_Boltneva_left p {
+		margin-top: 20px;
+		width: 100%;
+	}
+	.Valeria_Boltneva_left {
+		width: 100%;
+	}
+	.Valeria_Boltneva {
+		margin-bottom: 15px;
+	}
+	.Valeria_Boltneva_right {
+		width: 100%;
+	}
+	.Valeria_Boltneva_right img {
+		margin-top: 4px;
+	}
+	.pricing_plan_full_bottom_single:nth-child(1) {
+		border-right: 1px solid #a7bdd0;
+	}
+	.pricing_plan_full_bottom_single:nth-child(2) {
+		border-right: 1px solid #a7bdd0;
+	}
+	.pricing_plan_full_bottom_single {
+		width: 70%;
+		margin: 0 auto;
+		float: none;
+		margin-bottom:10px;
+	}
+	.Included_with_Plans_full_bottom_single ul li {
+		font-size: 12px;
+	}
+}
+@media all and (max-width:520px){
+	.header-bottom p {
+		width: 90%;
+	}
+	.header-bottom h1 {
+		font-size: 31px;
+	}
+	.header-bottom {
+		margin-top: 67px;
+		margin-bottom: 36px;
+	}
+	.our_features h1 {
+		font-size: 26px;
+		padding-bottom: 9px;
+		margin-bottom: 9px;
+	}
+	.our_features_bottom-single h3 {
+		padding: 7px 0px;
+	}
+	.Valeria_Boltneva_left p {
+		font-size: 17px;
+		line-height: 22px;
+	}
+	.pricing_plan_full_bottom_single {
+		width: 80%;
+		padding: 18px 10px;
+	}
+	.Included_with_Plans_full_bottom_single {
+		width: 90%;
+		margin-bottom: 12px;
+		margin-left: 3%;
+	}
+	.Included_with_Plans_full_bottom_single ul li {
+		font-size: 14px;
+	}
+	.download_now_full {
+		padding: 24px 0px;
+	}
+	.download_now_full_left h1 {
+		font-size: 19px;
+	}
+}
+@media all and (max-width:350px){
+	.header-top-left-text h1 {
+		margin-right: 14px;
+		padding-right: 14px;
+		font-size:24px;
+	}
+	.our_features h1 {
+		font-size: 22px;
+	}
+	.Creative_Idea_single p {
+		margin-top: 9px;
+	}
+	.pricing_plan_full_bottom_single {
+		width: 96%;
+	}
+	.pricing_plan_full_bottom_single p {
+		width: 68%;
+	}
+}
